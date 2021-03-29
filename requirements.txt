@@ -46,7 +46,7 @@ pycrypto==2.6.1
 pycurl==7.43.0.5
 pydocstyle==4.0.1
 pyflakes==2.1.1
-Pygments==2.5.2
+Pygments==2.7.4
 PyJWT==1.7.1
 pyparsing==2.4.6
 pyrsistent==0.15.7
